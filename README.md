@@ -1,5 +1,5 @@
 ## Fala pessoal, eu sou o Filipe Cruz! ✌🌈
-### Engenheiro químico super curioso que se apaixonou pela área de dados e quer agregar todo o background da Engenharia, da química e dos processos industriais na Ciência de análise de dados! Busco sempre enxergar o mundo de uma maneira distinta, acreditando que a diversidade sempre traz resultados positivos! 
+### Engenheiro químico super curioso que se apaixonou pela área de dados e quer agregar todo o background da Engenharia, da química e dos processos industriais na Ciência de análise de dados! Busco sempre enxergar o mundo de uma maneira distinta, acreditando que a diversidade sempre traz resultados positivos! 📈🧠💡 
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipecruz1234/)
 
